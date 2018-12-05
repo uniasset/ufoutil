@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"ufoutil/base58"
-	"ufoutil/bech32"
+	"github.com/uniasset/ufoutil/base58"
+	"github.com/uniasset/ufoutil/bech32"
 
 	"github.com/uniasset/ufod/btcec"
 	"github.com/uniasset/ufod/chaincfg"
