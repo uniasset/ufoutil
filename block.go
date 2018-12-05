@@ -10,7 +10,7 @@ import (
 	"io"
 
 	"github.com/uniasset/ufod/chaincfg/chainhash"
-	"github.com/uniiasset/ufod/wire"
+	"github.com/uniasset/ufod/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out
